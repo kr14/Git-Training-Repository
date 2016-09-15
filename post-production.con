@@ -9,3 +9,4 @@ switch S1 connects-with host H
 switch S1 connects-with host I
 switch S1 connects-with host M
 switch S2 connects-with ME
+switch 247 to link with somewhere else
